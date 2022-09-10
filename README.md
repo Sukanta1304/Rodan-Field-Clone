@@ -8,7 +8,7 @@
 
 
 
-Rodan and Fields is one of the top selling brands in the US founded in 2000 by Stanford-trained Dermatologists Dr. Katie Rodan and Dr. Kathy Fields. It is a skincare company which provides top-notch skincare products. It has more than 300,000 enrolled Independent Consultants and over two million Preferred Customers.
+
 
 Installing and Running
 
